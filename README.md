@@ -5,7 +5,7 @@
 
 Make a project directory, inside which clone this repo
 ```
-git clone https://github.com/DavidLXu/DexSinGrasp.git
+git clone https://github.com/dexsingrasp/DexSinGrasp.git
 ```
 The project directory should have a structure like this
 ```
