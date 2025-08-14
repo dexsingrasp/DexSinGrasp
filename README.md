@@ -1,4 +1,4 @@
-# <p align="center"> DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Cluttered Environments </p>
+# <p align="center"> DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Densely Cluttered Environments </p>
 ### <p align="center">  [Project Website](https://dexsingrasp.github.io/dexsingrasp-web/) </p>
 
 # I. Installation
